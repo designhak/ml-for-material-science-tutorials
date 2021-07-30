@@ -45,4 +45,5 @@ threatening, offensive, or harmful.
 
 ## Scope
 
-Thi
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project
