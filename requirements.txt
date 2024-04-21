@@ -2,4 +2,9 @@ jupyterlab
 
 requests
 numpy
-s
+scipy
+pandas
+matplotlib
+scikit-learn
+
+pymatgen
